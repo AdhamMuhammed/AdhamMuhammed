@@ -18,7 +18,7 @@
 </div>
 
 👋 Hi there! I'm a passionate Embedded Systems Engineer with a keen interest in developing efficient solutions for embedded systems. I’ve been building my skills through hands-on projects, courses, and constant self-learning.
-- ✔️ I’ve worked on various **Embedded Systems Projects** (AVR, ARM, AutoSar & Automotive RTOS)
-- ✔️ I'm looking to collaborate with highly respected companies in the **Embedded systems field**
+- ✔️ I’ve worked on various **Embedded Systems Projects** (AVR, ARM, AUTOSAR & Automotive RTOS)
+- ✔️ Always looking to learn, build, and collaborate with others in the **Embedded Systems field**
 
 ----------------
