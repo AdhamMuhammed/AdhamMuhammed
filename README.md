@@ -17,7 +17,7 @@
   <hr style="height:3px;border:none;background: linear-gradient(270deg, #4facfe, #00f2fe, #4facfe); background-size: 600% 600%; animation: gradientMove 5s ease infinite; width: 60%;">
 </div>
 
-👋 Hi there! I'm a passionate Embedded Systems Engineer with a keen interest in developing efficient solutions for embedded systems. I’ve been building my skills through hands-on projects, courses, and constant self-learning.
+👋 Hi there! I'm a passionate Embedded Systems Engineer with a keen interest in developing efficient solutions for embedded systems. I’ve been building my skills     through hands-on projects, courses, and constant self-learning.
 - ✔️ I’ve worked on various **Embedded Systems Projects** (AVR, ARM, AUTOSAR & Automotive RTOS)
 - ✔️ Always looking to learn, build, and collaborate with others in the **Embedded Systems field**
 
